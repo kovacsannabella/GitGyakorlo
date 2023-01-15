@@ -1,5 +1,5 @@
-# Verziókezelés alapjai
-## git letöltése
+  # Verziókezelés alapjai
+  ## Git letöltése
  - [git for windows](https://gitforwindows.org/)
  - [git scm](https://git-scm.com/)
   ## 2. Konfigurációs parancsok
