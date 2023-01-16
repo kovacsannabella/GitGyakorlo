@@ -37,3 +37,5 @@
   > Változások átvezetése (merge)
   - git checkout ág_ahova_kerülnek_a_változások
   - git merge ág_ahonnan_áthozzuk_a_változásokat
+  # 10. Távoli repó változásainak letöltése a lokális gépre
+  - git fetch origin
